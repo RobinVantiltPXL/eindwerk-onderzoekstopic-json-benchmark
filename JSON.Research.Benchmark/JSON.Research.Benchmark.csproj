@@ -8,12 +8,10 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="Resources\house.json" />
     <None Remove="Resources\test.json" />
   </ItemGroup>
 
   <ItemGroup>
-    <EmbeddedResource Include="Resources\house.json" />
     <EmbeddedResource Include="Resources\test.json" />
   </ItemGroup>
 
